@@ -39,7 +39,4 @@ For some years I have been deepening my knowledge and tracing my career as a dev
   <a href="http://www.instagram.com/soypiipe" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
-  <a href="https://www.twitch.tv/sopiipe" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
-  </a>
 </p>
