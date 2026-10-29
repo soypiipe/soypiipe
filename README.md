@@ -1,41 +1,86 @@
-Hi 👋 My name is Diego Amado
-============================
+<div align="center">
 
-Developer
----------
+# Diego Amado
 
-For some years I have been deepening my knowledge and tracing my career as a developer, focusing largely on technologies for the development of web applications, both in the backend and in the frontend. In addition, I am venturing into data science doing a specialization in strategic data analytics where I have acquired knowledge in visualization tools and languages ​​for data processing. Among the qualities that characterize me is self-management, proactivity, teamwork. I am ready to take on new challenges and get out of my comfort zone, continue learning and be able to apply everything I have learned in solving problems.
+**Backend Developer** · Node.js · TypeScript · NestJS
 
-*   🌍  I'm based in Bogotá
-*   ✉️  You can contact me at [diego\_amado\_@outlook.com](mailto:diego_amado_@outlook.com)
-*   🧠  I'm learning Vue, React, NodeJs, Python
-*   🤝  I'm open to collaborating on Apps Web, apis or any project that allows me to improve
+<a href="https://diegoamado.pages.dev"><img src="https://img.shields.io/badge/Portfolio-diegoamado.pages.dev-C16545?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/diegoamadodev"><img src="https://img.shields.io/badge/LinkedIn-diegoamadodev-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:diego_amado_@outlook.com"><img src="https://img.shields.io/badge/Email-diego__amado__@outlook.com-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 
-### Skills
-<p align="left">
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-                                <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                                <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</p>
+</div>
 
-### Socials
+---
 
-<p align="left">
-  <a href="https://www.github.com/soypiipe" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/soypiipe" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-</p>
+Six years building software people use every day.
+
+My ground is the backend: APIs, services that talk to each other through queues, and state that survives a multi-step process where any step can fail. I spent four years as the technical reference on a fully remote team, which meant architecture decisions and code review alongside shipping.
+
+I use AI coding tools daily, with a spec-first workflow. The speed is nice; the judgment about what ships is still mine.
+
+<br />
+
+### Stack
+
+**Backend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=flat-square&logo=typescript&logoColor=C16545)
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=C16545)
+![NestJS](https://img.shields.io/badge/NestJS-1A1A1A?style=flat-square&logo=nestjs&logoColor=C16545)
+![Express](https://img.shields.io/badge/Express-1A1A1A?style=flat-square&logo=express&logoColor=C16545)
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=C16545)
+
+**Messaging & async**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1A1A1A?style=flat-square&logo=rabbitmq&logoColor=C16545)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-1A1A1A?style=flat-square&logo=amazonsqs&logoColor=C16545)
+![BullMQ](https://img.shields.io/badge/BullMQ-1A1A1A?style=flat-square&logo=redis&logoColor=C16545)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=C16545)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1A1A1A?style=flat-square&logo=microsoftsqlserver&logoColor=C16545)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=flat-square&logo=mysql&logoColor=C16545)
+![TypeORM](https://img.shields.io/badge/TypeORM-1A1A1A?style=flat-square&logo=typeorm&logoColor=C16545)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=flat-square&logo=amazonwebservices&logoColor=C16545)
+![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=C16545)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1A1A1A?style=flat-square&logo=githubactions&logoColor=C16545)
+![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=C16545)
+![Nginx](https://img.shields.io/badge/Nginx-1A1A1A?style=flat-square&logo=nginx&logoColor=C16545)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1A1A1A?style=flat-square&logo=opentelemetry&logoColor=C16545)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-1A1A1A?style=flat-square&logo=vuedotjs&logoColor=C16545)
+![Angular](https://img.shields.io/badge/Angular-1A1A1A?style=flat-square&logo=angular&logoColor=C16545)
+![React](https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=C16545)
+
+<br />
+
+### What I'm building
+
+**[notify-engine](https://github.com/soypiipe)** — A notification engine in NestJS designed around two abstractions: a queue interface with interchangeable BullMQ and SQS adapters resolved by a factory, and an output channel interface for email, Slack and SMS. Swapping provider or infrastructure doesn't touch business logic. Instrumented with OpenTelemetry.
+
+**[energy-ai](https://github.com/soypiipe/energy-ai)** — Energy management platform: meter readings, anomaly detection, and natural-language explanations generated by an LLM. Backend in Go, a language I learned while building it.
+
+<br />
+
+### Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=soypiipe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C16545&icon_color=C16545&text_color=C9D1D9&include_all_commits=true" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soypiipe&layout=compact&hide_border=true&bg_color=0D1117&title_color=C16545&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+Based in Colombia · Working remotely · UTC-5
+
+</div>
